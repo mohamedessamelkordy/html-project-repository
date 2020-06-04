@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+ <h1 style="color:white;font-size:30px;font-family:verdana;">Artificial Intelligence main page</h1> 
+ 
+<h2 style="color:white;font-size:20px;font-family:verdana;">Links</h2> 
+
+<ul>
+  <li><a href="https://mohamedessamelkordy.github.io/ECE001/.html"><h2 style="color:white;font-size:16px;font-family:verdana;">main page</h2> 
+
+</a></li>
+   <li><a href="https://builtin.com/artificial-intelligence"><h2 style="color:white;font-size:14px;font-family:verdana;">What is Artificial Intelligence?</h2> 
+
+</a></li>
+  <li><a href="artificialintelligencecategories.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Artificial intelligence categories</h2></a></li>
+  
+  <li><a href="AIhistory.html"><h2 style="color:white;font-size:14px;font-family:verdana;">AI history</h2></a></li>
+  
+  <li><a href="applications.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Applications</h2></a></li>
+</ul>
+
+<p style="color:white;font-size:25px;font-family:verdana;">Artificial Intelligence (AI)  |   the ability of a digital computer  or computer-controlled robot  to perform tasks commonly associated with intelligent beings.
+AI is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence.</p>
+<p style="color:white;font-size:25px;font-family:verdana;">AI is ubiquitous today, used to recommend what you should buy next online, to understand what you say to virtual assistants such as Amazon's Alexa and Apple's Siri, to recognise who and what is in a photo, to spot spam, or detect credit card fraud.</p>
+<p style="color:white;font-size:25px;font-family:verdana;">"Artificial Intelligence examples:
+Smart assistants, Manufacturing and drone robots, Song or TV show recommendations, Conversational bots for marketing and customer service, Disease mapping and prediction tools and google map.</p>
+
+
+
+<style>
+body {
+  background-image: url(https://computerscience.johncabot.edu/mscaramastra/S2015/CS130-1/Hernandez/Cuba_Website/images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+
+
+</body>
+</html>

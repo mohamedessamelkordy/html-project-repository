@@ -1,0 +1,68 @@
+-<!DOCTYPE html>
+<html>
+<body>
+ <h1 style="color:white;font-size:30px;font-family:verdana;">Artificial Intelligence categories and types</h1> 
+ <img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg " alt="Artificial intelligence categories and types" style="width:400px;height:300px",>
+
+ 
+<p style="color:white;font-size:25px;font-family:verdana;">Artificial intelligence generally falls under two main categories: (1)Narrow AI.      (2)Artificial General Intelligence (AGI).</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">Narrow Artificial Intelligence:</h1> 
+<p style="color:white;font-size:25px;font-family:verdana;">Sometimes referred to as "Weak AI," Narrow AI is often focused on performing a single task extremely well and while these machines may seem intelligent, they are operating under far more constraints and limitations than even the most basic human intelligence. Narrow AI is all around us and is easily the most successful realization of artificial intelligence to date.
+Narrow AI has experienced many achievements in the last decade.
+examples of Narrow AI include Google search, Image recognition software and Self-driving cars and planes.</p>
+<h1 style="color:white;font-size:25px;font-family:verdana;">Artificial General Intelligence:</h1>
+<p style="color:white;font-size:25px;font-family:verdana;">The creation of a machine with human-level intelligence that can be applied to any task is the Holy Grail for many AI researchers, but the quest for AGI has been fraught with difficulty.
+AGI has long been the muse of dystopian science fiction, in which super-intelligent robots overrun humanity, but experts agree it's not something we need to worry about anytime soon.
+.</p>
+
+<p style="color:white;font-size:25px;font-family:verdana;">There are four types of artificial intelligence: reactive machines, limited memory, theory of mind and self-awareness.</p>
+<h1 style="color:white;font-size:25px;font-family:verdana;">(1)REACTIVE MACHINES</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">The most basic types of AI systems are purely reactive, and have the ability neither to form memories nor to use past experiences to inform current decisions. Deep Blue, IBM’s chess-playing supercomputer, which beat international grandmaster Garry Kasparov in the late 1990s, is the perfect example of this type of machine.
+
+Deep Blue can identify the pieces on a chess board and know how each moves. It can make predictions about what moves might be next for it and its opponent. And it can choose the most optimal moves from among the possibilities.This type of intelligence involves the computer perceiving the world directly and acting on what it sees.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">(2)LIMITED MEMORY</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">This Type II class contains machines can look into the past. Self-driving cars do some of this already. For example, they observe other cars’ speed and direction. That can’t be done in a just one moment, but rather requires identifying specific objects and monitoring them over time.
+
+These observations are added to the self-driving cars’ preprogrammed representations of the world, which also include lane markings, traffic lights and other important elements, like curves in the road. They’re included when the car decides when to change lanes, to avoid cutting off another driver or being hit by a nearby car.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">THEORY OF MIND</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">Machines in the next, more advanced, class not only form representations about the world, but also about other agents or entities in the world. In psychology, this is called “theory of mind” – the understanding that people, creatures and objects in the world can have thoughts and emotions that affect their own behavior.</p>
+<h1 style="color:white;font-size:25px;font-family:verdana;">SELF-AWARENESS</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">The final step of AI development is to build systems that can form representations about themselves. Ultimately, we AI researchers will have to not only understand consciousness, but build machines that have it.
+
+This is, in a sense, an extension of the “theory of mind” possessed by Type III artificial intelligences. Consciousness is also called “self-awareness” for a reason.</p>
+
+
+<style>
+body {
+  background-image: url(https://computerscience.johncabot.edu/mscaramastra/S2015/CS130-1/Hernandez/Cuba_Website/images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+<h2 style="color:white;font-size:20px;font-family:verdana;">Links</h2> 
+
+
+<ul>
+  <li><a href="https://mohamedessamelkordy.github.io/ECE001/.html"><h2 style="color:white;font-size:16px;font-family:verdana;">main page</h2> 
+
+</a></li>
+   <li><a href="https://builtin.com/artificial-intelligence"><h2 style="color:white;font-size:14px;font-family:verdana;">What is Artificial Intelligence?</h2> 
+
+</a></li>
+  <li><a href="artificialintelligencecategories.html"><h2 style="color:white;font-size:14px;font-family:Arial;">Artificial intelligence categories</h2></a></li>
+  
+  <li><a href="AIhistory.html"><h2 style="color:white;font-size:14px;font-family:verdana;">AI history</h2></a></li>
+  
+  <li><a href="applications.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Applications</h2></a></li>
+</ul>
+
+

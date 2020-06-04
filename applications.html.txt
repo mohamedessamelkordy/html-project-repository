@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <h1 style="color:white;font-size:30px;font-family:verdana;">Artificial intelligence applications</h1> 
+ 
+<h1 style="color:white;font-size:25px;font-family:verdana;">Artificial intelligence in cars</h1> 
+ 
+
+<img src="https://builtin.com/sites/default/files/styles/thumbnail/public/2018-12/artificial-intelligence-in-cars.jpg" alt="ai in cars"  width="400" height="300" style="border:5px solid black">
+
+<p style="color:white;font-size:25px;font-family:verdana;">Artificial intelligence in cars powers an revolution in the auto industry.(AI) and self-driving cars are often complimentary topics in technology. Simply put, you cannot really discuss one without the other.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">Artificial intelligence in car manufacturing</h1> 
+
+<p style="color:white;font-size:25px;font-family:verdana;">Car manufacturers all over the globe are using artificial intelligence in just about every facet of the car making process. AI can be witnesses working its magic through robots putting together the initial nuts and bolts of a vehicle or in an autonomous car using machine learning and vision to safely make its way through traffic.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">self-driving vehicles</h1> 
+
+<p style="color:white;font-size:25px;font-family:verdana;">Many major auto manufacturers are working to create their own autonomous cars and driving features,but we wil focus on one company called NUTONOMY.</p>
+
+<p style="color:white;font-size:25px;font-family:verdana;">
+How it's using AI in automotive: nuTonomy is creating autonomous technology for completely driverless vehicles. nuTonomoy’s technology, nuCore allows for flexible and human-like vehicle handling (without the error). The software enables vehicles to navigate even the most complex traffic situations.</p>
+
+<p style="color:white;font-size:25px;font-family:verdana;">Industry impact: Recently, nuTonomy partnered with Lyft to test out vehicles in Boston's Seaport District, providing rides to Lyft users and gaining more traction toward transforming the way people get around.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">AI Applications: Marketing</h1>
+<p style="color:white;font-size:25px;font-family:verdana;">In the early 2000s, if we searched an online store to find a product without knowing it’s exact name, it would become a nightmare to find the product. But now when we search for an item on any e-commerce store, we get all possible results related to the item. It’s like these search engines read our minds! In a matter of seconds, we get a list of all relevant items. An example of this is finding the right movies on Netflix.</p>
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/shutterstock_725383498.png" alt="AI Applications: Marketing" width="400" height="300">
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">AI Applications: Banking</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">A lot of banks have already adopted AI-based systems to provide customer support, detect anomalies and credit card frauds. An example of this is HDFC Bank.</p>
+
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/AI-AI-min.png" alt="AI Applications: Banking" width="400" height="300">
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">AI Applications: Social Media</h1>
+
+<p style="color:white;font-size:25px;font-family:verdana;">In social media platforms like Facebook, AI is used for face verification wherein machine learning and deep learning concepts are used to detect facial features and tag your friends. Deep Learning is used to extract every minute detail from an image by using a bunch of deep neural networks. On the other hand, Machine learning algorithms are used to design your feed based on your interests.</p>
+
+<img src="https://builtin.com/sites/default/files/styles/thumbnail/public/2019-04/Machine-Learning-in-Healthcare.png" alt="AI Applications: social media" width="400" height="300">
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">Sensors</h4>
+
+<p style="color:white;font-size:25px;font-family:verdana;">Artificial Intelligence has been combined with many sensor technologies which enables many applications such as at home water quality monitoring.</p>
+
+<h1 style="color:white;font-size:25px;font-family:verdana;">AI:games</h4>
+
+<p style="color:white;font-size:25px;font-family:verdana;">A lot of AI in game development goes toward defining the way a computer opponent behaves. Behavior can range from relatively simple patterns in action games all the way to chess programs that can beat champion human players.</p>
+
+
+
+
+
+
+
+
+
+
+
+<style>
+body {
+  background-image: url(https://computerscience.johncabot.edu/mscaramastra/S2015/CS130-1/Hernandez/Cuba_Website/images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+<h2 style="color:white;font-size:20px;font-family:verdana;">Links</h2> 
+
+<ul>
+  <li><a href="https://mohamedessamelkordy.github.io/ECE001/.html"><h2 style="color:white;font-size:16px;font-family:verdana;">main page</h2> 
+
+</a></li>
+   <li><a href="https://builtin.com/artificial-intelligence"><h2 style="color:white;font-size:14px;font-family:verdana;">What is Artificial Intelligence?</h2> 
+
+</a></li>
+  <li><a href="artificialintelligencecategories.html"><h2 style="color:white;font-size:14px;font-family:Arial;">Artificial intelligence categories</h2></a></li>
+  
+  <li><a href="AIhistory.html"><h2 style="color:white;font-size:14px;font-family:verdana;">AI history</h2></a></li>
+  
+  <li><a href="applications.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Applications</h2></a></li>
+</ul
+
+
+
+</body>

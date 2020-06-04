@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:white;font-size:30px;font-family:verdana;">Artificial intelligence history</h1> 
+
+
+
+<p style="color:white;font-size:20px;font-family:verdana;">artificial beings first appeared in the ancient Greek myths of Antiquity.
+The following is a quick look at some of the most important events in AI.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">1952: Arthur Samuel develops a self-learning program to play checkers.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">1963: John McCarthy starts the AI Lab at Stanford.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">1972: The logic programming language PROLOG is created.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">1991: U.S. forces deploy DART, an automated logistics planning and scheduling tool, during the Gulf War.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">1997: IBM's Deep Blue beats world chess champion Gary Kasparov</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">2005: STANLEY, a self-driving car, wins the DARPA Grand Challenge.
+
+The U.S. military begins investing in autonomous robots like Boston Dynamic's "Big Dog" and iRobot's "PackBot."</p>
+<p style="color:white;font-size:20px;font-family:verdana;">2008: Google makes breakthroughs in speech recognition and introduces the feature in its iPhone app.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">2012: Andrew Ng, founder of the Google Brain Deep Learning project, feeds a neural network using deep learning algorithms 10 million YouTube videos as a training set. The neural network learned to recognize a cat without being told what a cat is, ushering in breakthrough era for neural networks and deep learning funding.</p>
+
+<p style="color:white;font-size:20px;font-family:verdana;">2014: Google makes first self-driving car to pass a state driving test.
+</p>
+
+
+
+<h2 style="color:white;font-size:20px;font-family:verdana;">Links</h2>
+<ul>
+  <li><a href="https://mohamedessamelkordy.github.io/ECE001/.html"><h2 style="color:white;font-size:16px;font-family:verdana;">main page</h2> 
+
+</a></li>
+   <li><a href="https://builtin.com/artificial-intelligence"><h2 style="color:white;font-size:14px;font-family:verdana;">What is Artificial Intelligence?</h2> 
+
+</a></li>
+  <li><a href="artificialintelligencecategories.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Artificial intelligence categories</h2></a></li>
+  
+  <li><a href="AIhistory.html"><h2 style="color:white;font-size:14px;font-family:verdana;">AI history</h2></a></li>
+  
+  <li><a href="applications.html"><h2 style="color:white;font-size:14px;font-family:verdana;">Applications</h2></a></li>
+</ul>
+
+<style>
+body {
+  background-image: url(https://computerscience.johncabot.edu/mscaramastra/S2015/CS130-1/Hernandez/Cuba_Website/images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+</body>
+</html>
